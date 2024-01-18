@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Content Page</title>
+</head>
+<body>
+	<body background="https://t4.ftcdn.net/jpg/03/81/80/09/360_F_381800907_xZ19eMCxRTwfOmq6FcDf9XIhTy7a5nws.jpg">
+
+   <h1 style="color:purple;">Contents<h1>
+   	<table border="5px" bgcolor="pink" bordercolor="Purple" style="border-spacing: 10px; border-radius: 5px;">
+   		<tr>
+   		<th>S1.no</th>
+   		<th>Name of the Places</th>
+   		<th>Links</th>
+   	</tr>
+   	<tr> 
+   		<td>1</td>
+   		<td>Pune</td>
+   		<td>
+   			<a title="Please click me" href="D:\WebTech\Webtech codes\Places1.html">Sinhagad link</a>
+   		</td>
+   	</tr>
+   		<tr> 
+   		<td>2</td>
+   		<td>Mumbai</td>
+   		<td>
+   			<a title="Please click me" href=C:\Users\Lenovo\Desktop\ISHA.HTML\Mumbai.html>Mumbai Link</a>
+   	</tr> 
+   	<tr>
+   		<td>3</td>
+   		<td>Paris</td>
+   		<td>
+   			<a title="Please click me" href="D:\WebTech\Webtech codes\Paris.html">Paris link</a>
+   		</td>
+   	</tr>
+   		<tr>
+   		<td>4</td>
+   		<td>London</td>
+   		<td>
+   			<a title="Please click me" href="D:\WebTech\Webtech codes\london.html">London link</a>
+   		</td>
+   	</tr>
+   		<tr>
+   		<td>5</td>
+   		<td>Tokyo</td>
+   		<td>
+   		<a title="Please click me" href="D:\WebTech\Webtech codes\Tokyo.html">Tokyo link</a>
+   	</td>
+   	</tr>
+   	</table>
+</body>
+</html>
